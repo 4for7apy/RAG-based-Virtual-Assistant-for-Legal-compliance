@@ -1,0 +1,13 @@
+Flask
+SpeechRecognition
+beautifulsoup4
+gTTS
+langchain
+langchain-community
+langchain-openai
+openai
+pydub
+python-dotenv
+qdrant-client
+requests
+streamlit
