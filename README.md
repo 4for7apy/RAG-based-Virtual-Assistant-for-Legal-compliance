@@ -2,9 +2,6 @@
 
 A modern, minimal RAG assistant using LangChain + OpenAI + Qdrant with a Streamlit UI.
 
-<p align="center">
-  <img src="docs/assets/LOGO.jpg" alt="Logo" width="220" />
-</p>
 
 ## ✨ Features
 - Web scrape and PDF ingestion
@@ -41,10 +38,6 @@ A modern, minimal RAG assistant using LangChain + OpenAI + Qdrant with a Streaml
    - UI: `streamlit run app/streamlit_ui.py`
    - Voice demo: `streamlit run app/voice_chat2.py`
 
-## 🖼️ Screenshots
-<p align="center">
-  <img src="docs/assets/web login3.jpg" alt="Login" width="420" />
-</p>
 
 ## 📦 Deployment
 - Procfile provided (`web: python app/deploy.py`).
