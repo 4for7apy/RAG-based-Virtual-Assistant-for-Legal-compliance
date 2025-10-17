@@ -1,4 +1,4 @@
-# 🤖 Campus Multilingual Chatbot
+# 🤖 LEGAL VIRTUAL ASSISTANT
 
 A state-of-the-art multilingual AI chatbot designed for campus assistance, supporting **5+ languages** with premium UI/UX and advanced AI capabilities.
 
